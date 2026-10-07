@@ -364,7 +364,7 @@ function renderFooter() {
     </div>
     <div class="container footer-bottom">
       <span>${esc(C.footer.copyright)}</span>
-      <a href="admin/">Admin</a>
+      <a href="admin/index.html">Admin</a>
     </div>`;
 }
 
